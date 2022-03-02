@@ -20,12 +20,26 @@ Some example codes for drawing figures in research paper
 ![Figure1](https://github.com/DaoD/ResearchFigure/blob/main/pics/figure5.png)
 
 ### Histogram with different groups
+``` 
+  draw_figure_2() 
+```
 ![Figure2](https://github.com/DaoD/ResearchFigure/blob/main/pics/figure2.png)
 
 ### Two histograms
+``` 
+  draw_figure_3() 
+```
 ![Figure3](https://github.com/DaoD/ResearchFigure/blob/main/pics/figure3.png)
 
 ### Two line charts
+``` 
+  draw_figure_4() 
+```
 ![Figure4](https://github.com/DaoD/ResearchFigure/blob/main/pics/figure4.png)
 
+### TSNE figure
+``` 
+  draw_figure_6() 
+```
+![Figure6](https://github.com/DaoD/ResearchFigure/blob/main/pics/figure6.png)
 
