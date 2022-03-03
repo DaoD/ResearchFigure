@@ -6,8 +6,8 @@ Some example codes for drawing figures in research paper
 - numpy
 
 ### Hints
-- Times font is better for AI or NLP conferences, such as AAAI, ACL, EMNLP, etc.
-- Linux Libertine font is better for ACM conferences, such as SIGIR, WWW, CIKM, WSDM, etc.
+- *Times* font is better for AI or NLP conferences, such as AAAI, ACL, EMNLP, etc.
+- *Linux Libertine* font is better for ACM conferences, such as SIGIR, WWW, CIKM, WSDM, etc.
 
 ### Useful links
 [Colors in matplotlib 1](https://matplotlib.org/stable/gallery/color/named_colors.html) </br>
