@@ -47,7 +47,7 @@ Some example codes for drawing figures in research paper
 ```
 ![Figure6](https://github.com/DaoD/ResearchFigure/blob/main/pics/figure6.png)
 
-### Line chart with histogram
+### Line chart with histogram + Two y-axis
 ``` 
   draw_figure_7() 
 ```
